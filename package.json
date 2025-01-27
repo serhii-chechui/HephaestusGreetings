@@ -1,0 +1,17 @@
+{
+  "name": "com.wtfgames.hephaestus.greetings",
+  "displayName": "Greetings Service",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "keywords": ["unity", "paackage", "service", "test"],
+  "author": {
+    "name": "WTFGames",
+    "email": "serhii.chechui@gmail.com",
+    "url": ""
+  },
+  "license": "ISC",
+  "description": "Just a test package for UPM",
+   "publishConfig": {
+    "registry": "http://18.195.169.73:4873/"
+  }
+}
