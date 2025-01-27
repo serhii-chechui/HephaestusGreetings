@@ -1,7 +1,7 @@
 {
   "name": "com.wtfgames.hephaestus.greetings",
   "displayName": "Greetings Service",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "unity": "2019.2",
   "keywords": [
     "unity",
@@ -23,5 +23,3 @@
     "registry": "http://18.195.169.73:4873/"
   }
 }
-
-        
