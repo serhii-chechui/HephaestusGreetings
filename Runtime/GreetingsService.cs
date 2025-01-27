@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace DefaultNamespace
+namespace WTFGames.Hephaestus.GreetingsService
 {
     public class GreetingsService : MonoBehaviour
     {

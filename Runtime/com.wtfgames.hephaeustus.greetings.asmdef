@@ -1,0 +1,14 @@
+{
+    "name": "com.wtfgames.hephaeustus.greetings",
+    "rootNamespace": "WTFGames.Hephaestus.GreetingsService",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
