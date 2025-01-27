@@ -4,21 +4,21 @@ using Zenject;
 
 namespace WTFGames.Hephaestus.GreetingsService
 {
-    public class GreetingsService : IGreetingsService, IInitializable, IDisposable
+    public class AndroidGreetingsService : IGreetingsService, IInitializable, IDisposable
     {
         public void Initialize()
         {
-            Debug.Log("Greeting Service Initialized");
+            Debug.Log("Android Greeting Service Initialized");
         }
 
         public void Dispose()
         {
-            Debug.Log("Greeting Service Disposed");
+            Debug.Log("Android Greeting Service Disposed");
         }
-
+        
         public string GetGreeting()
         {
-            return "Hello World!";
+            return "Hello Android!";
         }
     }
 }

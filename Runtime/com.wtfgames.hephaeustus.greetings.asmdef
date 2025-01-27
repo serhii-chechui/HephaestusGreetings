@@ -1,7 +1,9 @@
 {
     "name": "com.wtfgames.hephaeustus.greetings",
     "rootNamespace": "WTFGames.Hephaestus.GreetingsService",
-    "references": [],
+    "references": [
+        "Zenject"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
